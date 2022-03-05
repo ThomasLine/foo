@@ -1,0 +1,25 @@
+   2.9 
+   To be done
+
+1. Solve task (b) using a one-liner with map() (invoce, ect..)
+
+2. Manage to use pivot_longer() properly in task (c), where we get the mean and sd in a "variable" column
+   Example: names   variable   value
+            blabla  mean       23
+            blabla  sd         0,5
+
+3. Task (d), figure out why row indeksing in Auto_reduced starts with one number higher then the index in our code.
+   Example: Input: Auto[1:10, ]  Output: "The 10 first rows.."
+            Input: Auto[86:90, ] Output: "Row 87, row 88..."
+
+4. Create a "facet_wrap" of mpg against different variables/columns
+
+5. Create multiple plots in a sleek way
+
+6. Make script pretty
+
+
+
+
+
+
